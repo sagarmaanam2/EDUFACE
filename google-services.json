@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125224463975",
+    "firebase_url": "https://eduface-13804-default-rtdb.firebaseio.com",
+    "project_id": "eduface-13804",
+    "storage_bucket": "eduface-13804.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125224463975:android:8a9d3b713cb779d2d5eec2",
+        "android_client_info": {
+          "package_name": "com.eduface.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125224463975-ngaatn6nk6sargrtf53ots9f1cn70l6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eduface.app",
+            "certificate_hash": "f16ca3edd4d639f54bfb0b05c84ab002d4f86ef0"
+          }
+        },
+        {
+          "client_id": "125224463975-6ed70s29mjgag0i4p1jb833m27oj3p92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kjQDpAJMyD81atPUXDG5xUZk8pTjK2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125224463975-6ed70s29mjgag0i4p1jb833m27oj3p92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

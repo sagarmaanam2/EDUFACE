@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">EduFace</string>
+
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">WhatsApp Phone Number</string>
+    <string name="phone_number_helper">Include country code (e.g., +91 for India)</string>
+    <string name="guardian_phone_number">Guardian\'s WhatsApp Number</string>
+    <string name="guardian_phone_helper">For notifications about absences (optional)</string>
+    <string name="role">Role</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="logout">Logout</string>
+    <string name="has_account">Already have an account?</string>
+    <string name="no_account">Don\'t have an account?</string>
+
+    <!-- Dashboard -->
+    <string name="student_dashboard">Student Dashboard</string>
+    <string name="teacher_dashboard">Teacher Dashboard</string>
+    <string name="welcome_message">Welcome, %s!</string>
+    <string name="upcoming_meetings">Upcoming Meetings</string>
+    <string name="no_meetings">No upcoming meetings scheduled</string>
+    <string name="notify_students">Notify Students</string>
+    <string name="send_notifications">Send Notifications</string>
+    <string name="notify_description">Send WhatsApp notifications to absent students and their guardians</string>
+
+    <!-- Meeting -->
+    <string name="create_meeting">Create Meeting</string>
+    <string name="join_meeting">Join Meeting</string>
+    <string name="start_meeting">Start Meeting</string>
+    <string name="end_meeting">End Meeting</string>
+    <string name="meeting_code">Meeting Code</string>
+    <string name="meeting_title">Meeting Title</string>
+    <string name="enter_meeting_title">Please enter a meeting title</string>
+    <string name="meeting_created">Meeting created successfully</string>
+    <string name="meeting_joined">Meeting joined successfully</string>
+    <string name="meeting_ended">Meeting ended successfully</string>
+    <string name="meeting_not_found">Meeting not found or has ended</string>
+    <string name="meeting_in_progress">Meeting in Progress</string>
+    <string name="copy_code">Copy Code</string>
+    <string name="share_code">Share this code with your students</string>
+
+    <!-- Attendance -->
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="attendance_marked">Attendance Marked</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="attendance_history">Attendance History</string>
+    <string name="attendance_records">Attendance Records</string>
+    <string name="no_attendance_records">No attendance records found</string>
+    <string name="notify_absent_students">Notify Absent Students</string>
+    <string name="notification_sent">WhatsApp notifications sent successfully</string>
+    <string name="notification_failed">Failed to send notifications</string>
+    <string name="notifications_sent_count">Sent %d WhatsApp notifications</string>
+    <string name="joined_at">Joined at:</string>
+    <string name="duration">Duration:</string>
+    <string name="absent">Absent</string>
+    <string name="present">Present</string>
+    <string name="mute_unmute">Mute/Unmute</string>
+    <string name="video_on_off">Video On/Off">Duration:</string>
+    <string name="switch_camera">Switch Camera</string>
+
+
+    <string name="meeting_code_placeholder">Meeting Code: ABC123</string>
+    <string name="start_face_detection">Start Face Detection</string>
+    <string name="camera_preview">Camera Preview</string>
+    <string name="face_detection_status">Face Detection Status</string>
+
+    <string name="verifying_face">Verifying your face…</string>
+    <string name="face_detected">Face detected!</string>
+    <string name="face_not_detected">Face not detected, please position properly</string>
+    <string name="position_face">Position your face within the frame</string>
+
+
+    <string name="error_occurred">An error occurred</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="scheduled_date_hint">Scheduled Date</string>
+    <string name="scheduled_time_hint">Scheduled Time</string>
+    <string name="camera_permission_needed">Camera permission is required for face detection.</string>
+    <string name="marking_attendance">Marking attendance...</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string> ```
+    **Make sure to replace `YOUR_WEB_CLIENT_ID` with the actual `default_web_client_id` value from your `google-services.json` file.**
+    <string name="hosting_meeting">Hosting Meeting</string>
+    <string name="leave_meeting">Leave Meeting</string>
+    <string name="no_upcoming_meetings">No upcoming meetings found.</string>
+    <string name="enter_meeting_code">Enter Meeting Code</string>
+    <string name="create_new_meeting">Create New Meeting</string>
+    <string name="join">Join</string>
+    <string name="teacher_name_hint">Teacher Name</string>
+    <string name="subject_hint">Subject</string>
+    <string name="class_name_hint">Class Name</string>
+    <string name="meetings_attended_count">Meetings Attended: %d</string>
+    <string name="error_loading_meetings">Failed to load meetings. Please try again.</string>
+
+    <string name="attendance_already_marked">Attendance already marked.</string>
+</resources>

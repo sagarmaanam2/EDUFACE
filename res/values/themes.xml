@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme in Light mode -->
+    <style name="Theme.EduFace.DayNight" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand colors -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand colors -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Background and surface -->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+
+
+        <!-- Status and navigation bar -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">@color/black</item>
+
+        <!-- Toolbar style -->
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar</item>
+
+        <!-- Shape appearance -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.MaterialComponents.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MaterialComponents.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MaterialComponents.LargeComponent</item>
+
+        <!-- Typography (optional override) -->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.MaterialComponents.Headline1</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.MaterialComponents.Body1</item>
+    </style>
+
+</resources>
